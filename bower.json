@@ -1,0 +1,27 @@
+{
+  "name": "reltimeapp",
+  "authors": [
+    "FC Lucas <fclucasweb@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "firebase": "^3.1.0",
+    "angularfire": "~1.1.2",
+    "font-awesome": "~4.3.0",
+    "ngImgCrop": "~0.3.2",
+    "bootswatch": "~3.3.5",
+    "toastr": "~2.1.2"
+  }
+}
